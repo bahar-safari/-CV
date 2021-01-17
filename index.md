@@ -1,11 +1,11 @@
 
-### Bahar Safari
+### Tahereh Safari
 
 
 ### Personal informations
 
 ---
-+ name: Bahar 
++ name: Tahereh
 + last name : Safari
 + Date of birth : 1979/November/29
 + I am a trader and IT engineering student
