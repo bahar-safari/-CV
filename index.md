@@ -7,7 +7,7 @@
 ---
 + name: Tahereh
 + last name : Safari
-+ Date of birth : 1979/November/29
++ Date of birth : 2000/November/14
 + I am a trader and IT engineering student
 + location : Tehran , I.R.Iran
 
@@ -22,7 +22,7 @@
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
++ Diploma : Partoo Danesh
 + Bachelor of science : IT Engineering
 _ payam Noor University of North 
 
