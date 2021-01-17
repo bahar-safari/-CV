@@ -1,12 +1,12 @@
 
-### Anahita Taheri
+### Bahar Safari
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
++ name: Bahar 
++ last name : Safari
 + Date of birth : 1979/November/29
 + I am a trader and IT engineering student
 + location : Tehran , I.R.Iran
@@ -15,8 +15,8 @@
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Python Developer
++ java script Developer
 
 
 ### Education
